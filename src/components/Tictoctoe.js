@@ -86,7 +86,7 @@ const Tictoctoe = () => {
     }
     return (
         <>
-            <h1> 🎃 TIC-TOC-TOE GAME 🎃 </h1>
+            <h1> 👾 🎃 😈 TIC-TOC-TOE GAME 😈 🎃 👾</h1>
 
             <table>
                 <tbody>
